@@ -1,11 +1,14 @@
+# kafa - кафа
+
 1. кофе
 
-## кофе
+## Rečenice
 
 Pijem kafu svako jutro.
 
 Ovaj kolač dobro ide uz kafu sa [[šlag|šlagom]].
 
+<br>
 
 #vrsta/imenica
 #nivo/A1

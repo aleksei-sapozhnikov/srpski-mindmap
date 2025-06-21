@@ -1,14 +1,15 @@
+# pratiti - пратити
+
 1. следовать
 2. следить, наблюдать
 
-## следовать
+## Rečenice
 
 Pratim Kuplinova na [[Jutjub|Jutjubu]].
 
-## следить, наблюдать
-
 Ana prati [[vreme|vremensku]] prognozu svaki dan.
 
+<br>
 
 #vrsta/glagol
 #nivo/A1

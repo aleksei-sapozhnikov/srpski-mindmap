@@ -1,9 +1,12 @@
+# piti - пити
+
 1. пить
 
-## пить
+## Rečenice
 
 Ja pijem [[kafa|kafu]], pa idem na posao.
 
+<br>
 
 #vrsta/glagol
 #nivo/A1

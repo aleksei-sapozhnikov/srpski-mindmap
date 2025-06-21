@@ -1,9 +1,12 @@
+# grad - град
+
 1. город
 
-## город
+## Rečenice
 
 Angarsk je moj rodni grad.
 
+<br>
 
 #vrsta/imenica
 #nivo/A1
