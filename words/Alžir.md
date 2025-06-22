@@ -11,5 +11,5 @@ Alžir je velika zemlja u Africi.
 #vrsta/imenica 
 #nivo/A1
 
-#tema/grad
+#tema/gradovi
 #tema/geografija

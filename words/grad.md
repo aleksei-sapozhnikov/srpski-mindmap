@@ -11,4 +11,4 @@ Angarsk je moj rodni grad.
 #vrsta/imenica
 #nivo/A1
 
-#tema/grad
+#tema/gradovi
