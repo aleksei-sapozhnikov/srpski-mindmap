@@ -6,6 +6,8 @@
 
 Ja pijem [[kafa|kafu]], pa idem na posao.
 
+Ne [[želeti|želim]] da jedem nego pijem.
+
 <br>
 
 #vrsta/glagol
