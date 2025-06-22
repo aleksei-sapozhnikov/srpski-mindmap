@@ -11,6 +11,8 @@ U zadnje vreme pokušavam više da hodam.
 
 Leti je vreme u Beogradu sunčano i vruće.
 
+***Na vreme*** znači da je tačno: ni prerano ni prekasno.
+
 <br>
 
 #vrsta/imenica

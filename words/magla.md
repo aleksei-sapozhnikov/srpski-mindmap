@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Veoma lagana magla naziva se **izmaglica**, dok se veoma gusta naziva **gusta magla**.  
+Veoma lagana magla naziva se ***izmaglica***, dok se veoma gusta naziva **gusta magla**.  
 
 Zbog magle avion [[kasniti|kasni]].
 
