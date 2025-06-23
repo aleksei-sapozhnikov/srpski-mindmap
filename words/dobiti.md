@@ -11,6 +11,8 @@ Da li si dobio moj mejl?
 
 ***Dobiti nogu*** u srpskom je izraz koji znači biti otpušten.
 
+Kragujevac je ***dobio ime po*** jednoj ptici.
+
 <br>
 
 #vrsta/glagol

@@ -24,6 +24,8 @@ Atina je glavni grad ***sunčane Grčke***.
 
 Na [[kraj|kraju]] ***centralne ulice*** je biblioteka.
 
+Usred [[avgust|avgusta]] bilo je baš hladno **cele nedelje**.
+
 \- Odakle je Angela Merkel?
 \- Ona je iz ***južne Nemačke***.
 
