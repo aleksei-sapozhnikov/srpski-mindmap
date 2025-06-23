@@ -7,7 +7,7 @@
 
 Ušće je mesto gde se reka uliva u drugu reku, jezero ili more.
 
-Njegova filozofija predstavlja ušće istočnih i zapadnih ideja.
+Njegova filozofija predstavlja ušće [[istok|istočnih]] i [[zapad|zapadnih]] ideja.
 
 [[Beograd]] se nalazi na ušću Save u Dunav.
 
