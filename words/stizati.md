@@ -2,8 +2,6 @@
 
 1. прибывать, приходить
 
-Imperfektivni oblik od [[stići]].
-
 ## Rečenice
 
 Ona [[uvek]] stiže na vreme.

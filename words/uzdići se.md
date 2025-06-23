@@ -2,8 +2,6 @@
 
 1. возвыситься, подняться (о местности, зданиях, фигурах)
 
-Perfektivni oblik od [[uzdizati se]].
-
 ## Rečenice
 
 Planina se uzdiže na granici.  

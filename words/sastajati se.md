@@ -2,8 +2,6 @@
 
 1. встречаться, собираться (регулярно)
 
-Imperfektivni oblik od [[sastati se]].
-
 ## Rečenice
 
 Obično se sastajemo petkom uveče.  

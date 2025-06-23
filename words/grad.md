@@ -6,6 +6,8 @@
 
 Angarsk je moj rodni grad.
 
+[[Beograd]] je glavni grad Srbije.
+
 <br>
 
 #vrsta/imenica

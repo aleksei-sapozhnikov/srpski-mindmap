@@ -2,8 +2,6 @@
 
 1. встретиться, собраться (однократно)
 
-Perfektivni oblik od [[sastajati se]].
-
 ## Rečenice
 
 Sastali smo se ispred biblioteke.  

@@ -2,8 +2,6 @@
 
 1. подниматься, возвышаться (процесс, постепенное или повторяющееся действие)
 
-Imperfektivni oblik od [[uzdići se]].
-
 ## Rečenice
 
 Sunce se svakog jutra uzdiže iznad horizonta.

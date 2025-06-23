@@ -2,8 +2,6 @@
 
 1. прибыть, прийти, доехать
 
-Perfektivni oblik od [[stizati]].
-
 ## Rečenice
 
 [[brzo|Brže]] je stići taksijem nego vozom.
