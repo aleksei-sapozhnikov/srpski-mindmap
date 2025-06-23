@@ -8,7 +8,7 @@ Imperfektivni oblik od [[uzdići se]].
 
 Sunce se svakog jutra uzdiže iznad horizonta.
 
-[[magla]] se polako uzdizala sa reke.  
+[[magla|Magla]] se polako uzdizala sa reke.  
 
 <br>
 

@@ -5,7 +5,7 @@
 ## Vidi padeža
 
 1. Nominativ – ko? šta?  (именительный)  
-2. Genitiv – koga? čega?  (родительный)  
+2. [[Genitiv padež|Genitiv]] – koga? čega?  (родительный)  
 3. Dativ – kome? čemu?  (дательный)  
 4. Akuzativ – koga? šta?  (винительный)  
 5. Vokativ – (ej!)  (звательный)  
@@ -15,14 +15,15 @@
 ## Promena
 
 | Padež        | muški j. | muški mn. | ženski j. | ženski mn. | srednji j. | srednji mn. |
-|--------------|----------|-----------|------------|-------------|-------------|--------------|
-| Nominativ    | pas      | pasovi    | mačka      | mačke       | selo        | sela         |
-| Genitiv      | psa      | pasa      | mačke      | mačaka      | sela        | sela         |
-| Dativ        | psu      | psima     | mački      | mačkama     | selu        | selima       |
-| Akuzativ     | psa      | pse       | mačku      | mačke       | selo        | sela         |
-| Vokativ      | pse      | pasovi    | mačko      | mačke       | selo        | sela         |
-| Instrumental | sa psom  | sa psima  | sa mačkom  | sa mačkama  | sa selom    | sa selima    |
-| Lokativ      | o psu    | o psima   | o mački    | o mačkama   | o selu      | o selima     |
+| ------------ | -------- | --------- | --------- | ---------- | ---------- | ----------- |
+| Nominativ    | pas      | pasovi    | mačka     | mačke      | selo       | sela        |
+| Genitiv      | psa      | pasa      | mačke     | mačaka     | sela       | sela        |
+| Dativ        | psu      | psima     | mački     | mačkama    | selu       | selima      |
+| Akuzativ     | psa      | pse       | mačku     | mačke      | selo       | sela        |
+| Vokativ      | pse      | pasovi    | mačko     | mačke      | selo       | sela        |
+| Instrumental | sa psom  | sa psima  | sa mačkom | sa mačkama | sa selom   | sa selima   |
+| Lokativ      | o psu    | o psima   | o mački   | o mačkama  | o selu     | o selima    |
+|              |          |           |           |            |            |             |
 
 ## Rečenice
 
@@ -46,3 +47,4 @@ Pričamo o psima, o mačkama i o selima (lokativ).
 #nivo/A1
 
 #tema/gramatika
+#tema/padeži
