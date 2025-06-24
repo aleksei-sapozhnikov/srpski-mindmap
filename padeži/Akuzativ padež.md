@@ -1,4 +1,4 @@
-# Akuzativ padež – Акузатив падеж
+# Akuzativ padež - Акузатив падеж
 
 1. Винительный падеж
 
@@ -10,13 +10,13 @@
 | ------- | -------------------- | ------------------ | --------------------- | ------------ |
 | Jednina |                      |                    |                       |              |
 | pravilo | -***a***             | *=nominativ*       | -***u***              | *=nominativ* |
-| primer  | čovek → čovek***a*** | sto → sto          | knjiga → knjig***u*** | more → more  |
+| primer  | čovek -> čovek***a*** | sto -> sto          | knjiga -> knjig***u*** | more -> more  |
 |         |                      |                    |                       |              |
 
 | Množina | muški rod (živo)    | muški rod (neživo) | ženski rod            | srednji rod  |
 | ------- | ------------------- | ------------------ | --------------------- | ------------ |
 | pravilo | -***e***            | *=nominativ*       | -***e***              | *=nominativ* |
-| primer  | ljudi → ljud***e*** | gradovi → gradovi  | banane → banan***e*** | sela → sela  |
+| primer  | ljudi -> ljud***e*** | gradovi -> gradovi  | banane -> banan***e*** | sela -> sela  |
 
 ## Rečenice
 

@@ -1,9 +1,9 @@
-# mali – мали
+# mali - мали
 
 1. маленький  
 2. незначительный, малый
 
-mali → manji → najmanji
+mali -> manji -> najmanji
 
 ## Rečenice
 

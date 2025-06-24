@@ -1,4 +1,4 @@
-# slobodno – слободно
+# slobodno - слободно
 
 1. свободно (наречие, stanje)  
 2. разрешено, можно (вежljiva forma pitanja)

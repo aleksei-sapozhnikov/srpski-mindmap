@@ -4,13 +4,13 @@
 
 ## Vidi padeža
 
-1. Nominativ – ko? šta?  (именительный)  
-2. [[Genitiv padež|Genitiv]] – koga? čega?  (родительный)  
-3. Dativ – kome? čemu?  (дательный)  
-4. [[Akuzativ padež|Akuzativ]] – koga? šta?  (винительный)  
-5. Vokativ – (ej!)  (звательный)  
-6. Instrumental – s kim? s čim?  (творительный)  
-7. [[Lokativ padež|Lokativ]] – o kome? o čemu?  (предложный)
+1. Nominativ - ko? šta?  (именительный)  
+2. [[Genitiv padež|Genitiv]] - koga? čega?  (родительный)  
+3. Dativ - kome? čemu?  (дательный)  
+4. [[Akuzativ padež|Akuzativ]] - koga? šta?  (винительный)  
+5. Vokativ - (ej!)  (звательный)  
+6. Instrumental - s kim? s čim?  (творительный)  
+7. [[Lokativ padež|Lokativ]] - o kome? o čemu?  (предложный)
 
 ## Promena
 
@@ -35,7 +35,7 @@ Dajem kosti psima, mleko mačkama i vodu selima (dativ).
 
 Vidim pse, mačke i sela iz autobusa (akuzativ).
 
-Pasovi! Mačke! Sela! – gde ste (vokativ)?
+Pasovi! Mačke! Sela! - gde ste (vokativ)?
 
 Igram se sa psima, šetam sa mačkama, bavim se selima u istraživanju (instrumental).
 

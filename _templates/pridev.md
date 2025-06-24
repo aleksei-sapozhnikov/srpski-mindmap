@@ -3,7 +3,7 @@
 1. свободный - не взаперти
 2. свободный - не занят
 
-slobodan → slobodniji → najslobodniji
+slobodan -> slobodniji -> najslobodniji
 
 ## Rečenice
 

@@ -10,13 +10,13 @@
 | ------- | ------------------------ | --------------------- | ----------------- |
 | Jednina |                          |                       |                   |
 | pravilo | -***a***                 | -***e***              | -***a***          |
-| primer  | telefon → telefon***a*** | knjiga → knjig***e*** | more → mor***a*** |
+| primer  | telefon -> telefon***a*** | knjiga -> knjig***e*** | more -> mor***a*** |
 
 |         | muški rod                 | ženski rod             | srednji rod       |
 | ------- | ------------------------- | ---------------------- | ----------------- |
 | Množina |                           |                        |                   |
 | pravilo | -***a***                  | -***a***               | -***a***          |
-| primer  | telefoni → telefon***a*** | knjige → knjig***a***  | mora → mor***a*** |
+| primer  | telefoni -> telefon***a*** | knjige -> knjig***a***  | mora -> mor***a*** |
 
 ## Rečenice
 

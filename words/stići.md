@@ -6,7 +6,7 @@
 
 [[brzo|Brže]] je stići taksijem nego vozom.
 
-Kada stižeš u Beograd? – Stižem sutra, ali stići ću do večere.
+Kada stižeš u Beograd? - Stižem sutra, ali stići ću do večere.
 
 Stigli smo [[vreme|na vreme]].
 

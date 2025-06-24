@@ -1,4 +1,4 @@
-# Lokativ padež – Локатив падеж
+# Lokativ padež - Локатив падеж
 
 1. Предложный падеж
 
@@ -12,13 +12,13 @@ Lokativ se uvek koristi s predlogom: u, na
 | ------- | ------------------------ | --------------------- | ----------------- |
 | Jednina |                          |                       |                   |
 | pravilo | -***u*** / -***u***      | -***i***              | -***u***          |
-| primer  | telefon → telefon***u*** | knjiga → knjig***i*** | more → mor***u*** |
+| primer  | telefon -> telefon***u*** | knjiga -> knjig***i*** | more -> mor***u*** |
 
 |         | muški rod                   | ženski rod              | srednji rod         |
 | ------- | --------------------------- | ----------------------- | ------------------- |
 | Množina |                             |                         |                     |
 | pravilo | -***ima***                  | -***ama***              | -***ima***          |
-| primer  | telefoni → telefon***ima*** | knjige → knjig***ama*** | mora → mor***ima*** |
+| primer  | telefoni -> telefon***ima*** | knjige -> knjig***ama*** | mora -> mor***ima*** |
 
 ## Rečenice
 

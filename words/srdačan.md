@@ -1,9 +1,9 @@
-# srdačan – срдачан
+# srdačan - срдачан
 
 1. сердечный, тёплый (по отношению к людям)  
 2. искренний, от души
 
-srdačan → srdačniji → najsrdačniji
+srdačan -> srdačniji -> najsrdačniji
 
 ## Rečenice
 

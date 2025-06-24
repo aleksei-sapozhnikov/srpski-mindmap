@@ -1,11 +1,11 @@
-# pravi – прави
+# pravi - прави
 
 1. настоящий, подлинный
 2. правильный
 3. подходящий, как следует
 4. прямой (угол в геометрии)
 
-pravi → praviji → najpraviji
+pravi -> praviji -> najpraviji
 
 ## Rečenice
 
