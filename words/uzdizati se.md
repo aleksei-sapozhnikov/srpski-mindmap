@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Sunce se svakog jutra uzdiže iznad horizonta.
+Sunce se svakog jutra uzdiže [[iznad]] horizonta.
 
 [[magla|Magla]] se polako uzdizala sa reke.  
 

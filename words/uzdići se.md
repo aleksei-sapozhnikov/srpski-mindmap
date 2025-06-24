@@ -6,7 +6,7 @@
 
 Planina se uzdiže na granici.  
 
-Toranj se uzdigao iznad cele tvrđave.
+Toranj se uzdigao [[iznad]] cele tvrđave.
 
 <br>
 

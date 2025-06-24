@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Pronašli smo zaklon ispod stare nadstrešnice.
+Pronašli smo zaklon [[ispod]] stare nadstrešnice.
 
 Planinari su brzo potražili zaklon od vetra.
 

@@ -6,7 +6,7 @@
 
 Zamenila je stari jastuk novim, [[velik|većim]] i udobnijim.
 
-Jastuci su razbacani po [[pod|podu]].
+Jastuci su [[razbacan|razbacani]] po [[pod|podu]].
 
 <br>
 

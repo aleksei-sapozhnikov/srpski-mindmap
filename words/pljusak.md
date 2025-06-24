@@ -6,7 +6,7 @@
 
 Pljusak je jaka letnja kiša, obično kratka i iznenadna.
 
-Deca su se sakrila od pljuska ispod drveta.
+Deca su se sakrila od pljuska [[ispod]] drveta.
 
 <br>
 

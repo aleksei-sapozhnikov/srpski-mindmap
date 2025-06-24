@@ -1,4 +1,4 @@
-# stojati - стојати
+# stajati - стајати
 
 1. стоять (находиться в вертикальном положении)  
 2. находиться (быть размещённым где-то)
@@ -8,6 +8,8 @@
 U sobi ništa ne stoji na svom mestu.
 
 Polica stoji pored [[vrata]] već godinama.
+
+Televizor stoji na zidu.
 
 <br>
 

@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Sastali smo se ispred biblioteke.  
+Sastali smo se [[ispred]] biblioteke.  
 
 Kada ćemo se sledeći [[put]] sastati?
 
