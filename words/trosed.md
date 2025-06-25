@@ -6,7 +6,7 @@
 
 Kupili smo nov trosed za dnevnu [[soba|sobu]].
 
-Na tom trosedu može [[komotno]] da sedi troje ljudi.
+Trosed je specifična verzija [[kauč|kauča]] na kojem može [[komotno]] da sedi troje ljudi.
 
 Na trosedu su bili šareni [[jastuk|jastučići]].
 
