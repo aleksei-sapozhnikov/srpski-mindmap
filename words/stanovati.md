@@ -7,7 +7,7 @@
 
 Stanujemo u centru grada, blizu parka.
 
-Moji rođaci su nekada stanovali u [[seoskoj]] kući.
+Moji rođaci su nekada stanovali u [[seoski|seoskoj]] kući.
 
 <br>
 
