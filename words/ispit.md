@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-U ispitnom roku će se videti koliko si učio cele godine.
+U ispitnom roku će se videti koliko si učio cele [[godina|godine]].
 
 Spremam se za ispit u biblioteci.
 
