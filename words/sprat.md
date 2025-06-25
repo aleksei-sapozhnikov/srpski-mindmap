@@ -6,9 +6,9 @@
 
 Stan mi je na trećem spratu.
 
-[[autobus|Autobus]] na sprat ima više mesta za sedenje.
-
 ***Na sprat*** znači da nešto ima više nivoa ili nije prizemno.
+
+[[autobus|Autobus]] na sprat ima više mesta za sedenje.
 
 <br>
 
