@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Na [[polica|polici]] stoji staklena tegla sa domaćim medom.
+Na [[polica|polici]] u [[ostava|ostavi]] stoji staklena tegla sa domaćim medom.
 
 Kupila je tri tegle ajvara na pijaci.
 

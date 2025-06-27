@@ -6,7 +6,7 @@
 
 Obrisala je sto suvom krpom.
 
-Donela je čistu krpu iz kuhinje.
+Donela je čistu krpu iz [[kuhinja|kuhinje]].
 
 <br>
 

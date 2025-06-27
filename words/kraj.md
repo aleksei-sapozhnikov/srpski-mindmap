@@ -4,9 +4,11 @@
 
 ## Rečenice
 
-Na kraju krajeva, svi pravimo greške.  
-
 Stigli smo na kraj puta.
+
+***Na kraju*** često je izraz koji znači da se posle mnogih [[pokušaj|pokušaja]] nešto promenilo.
+
+Na kraju krajeva, svi pravimo greške.
 
 Stavio je tanjir na kraj stola.
 
