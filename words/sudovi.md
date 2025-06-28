@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-Reč ***sudovi*** je množina od ***[[sud]]***, a u značenju posuđa jednina se retko koristi.  
+Reč ***sudovi*** je množina od reči ***[[sud]]***, ali se u značenju [[posuđe|posuđa]] jednina retko koristi.
 
-Sudovi su ostali u sudoperi cele noći.  
+Sudovi su ostali u [[sudopera|sudoperi]] cele noći.  
 
 Posle ručka svi peru svoje sudove.
 
