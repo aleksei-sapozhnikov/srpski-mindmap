@@ -6,13 +6,12 @@
 
 ## Pravila
 
-|         | muški rod (živo)     | muški rod (neživo) | ženski rod            | srednji rod  |
-| ------- | -------------------- | ------------------ | --------------------- | ------------ |
-| Jednina |                      |                    |                       |              |
-| pravilo | -***a***             | *=nominativ*       | -***u***              | *=nominativ* |
-| primer  | čovek -> čovek***a*** | sto -> sto          | knjiga -> knjig***u*** | more -> more  |
-|         |                      |                    |                       |              |
-
+|         | muški rod (živo)      | muški rod (neživo) | ženski rod             | srednji rod  |
+| ------- | --------------------- | ------------------ | ---------------------- | ------------ |
+| Jednina |                       |                    |                        |              |
+| pravilo | -***a***              | *=nominativ*       | -***u***               | *=nominativ* |
+| primer  | čovek -> čovek***a*** | sto -> sto         | knjiga -> knjig***u*** | more -> more |
+	
 | Množina | muški rod (živo)    | muški rod (neživo) | ženski rod            | srednji rod  |
 | ------- | ------------------- | ------------------ | --------------------- | ------------ |
 | pravilo | -***e***            | *=nominativ*       | -***e***              | *=nominativ* |
