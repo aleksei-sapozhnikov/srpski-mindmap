@@ -15,7 +15,7 @@ Gde god Jelena dođe, pravi probleme.
 
 Nemoj da praviš glupe greške!
 
-Pravićemo roštilj u nedelju.
+Pravićemo [[roštilj]] u nedelju.
 
 <br>
 
