@@ -8,7 +8,7 @@
 
 Kupili su novi roštilj za letnju sezonu.  
 
-Idećemo u vikendicu ***na roštilj*** sa prijateljima.
+Idećemo na vikendicu ***na roštilj*** sa prijateljima.
 
 <br>
 
