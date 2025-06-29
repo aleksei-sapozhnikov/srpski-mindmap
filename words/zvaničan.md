@@ -3,7 +3,7 @@
 1. официальный
 2. формальный
 
-zvaničan -> zvaničniji -> najzvaničniji
+zvaničan → zvaničniji → najzvaničniji
 
 ## Rečenice
 

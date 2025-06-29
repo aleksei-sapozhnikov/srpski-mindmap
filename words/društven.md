@@ -3,7 +3,7 @@
 1. общественный, социальный
 2. общительный
 
-društven -> društveniji -> najdruštveniji
+društven → društveniji → najdruštveniji
 
 ## Rečenice
 

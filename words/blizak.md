@@ -2,7 +2,7 @@
 
 1. близкий (в пространственном, временном или эмоциональном смысле)
 
-blizak -> bliži -> najbliži
+blizak → bliži → najbliži
 
 ## Rečenice
 

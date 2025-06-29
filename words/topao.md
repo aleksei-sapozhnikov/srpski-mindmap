@@ -3,7 +3,7 @@
 1. тёплый  
 2. горячий
 
-topao -> topliji -> najtopliji
+topao → topliji → najtopliji
 
 ## Rečenice
 

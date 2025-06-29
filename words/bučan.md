@@ -3,7 +3,7 @@
 1. шумный, громкий  
 2. беспокойный, шумливый
 
-bučan -> bučniji -> najbučniji
+bučan → bučniji → najbučniji
 
 ## Rečenice
 

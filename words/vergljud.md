@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Vergljud je arhaična reč za _**[[dromedar|dromedara]]**_ — jednogrbu [[kamila|kamilu]].
+Vergljud je arhaična reč za _**[[dromedar|dromedara]]**_ - jednogrbu [[kamila|kamilu]].
 
 U zoološkom vrtu smo videli vergljuda i dvogrbu kamilu.
 

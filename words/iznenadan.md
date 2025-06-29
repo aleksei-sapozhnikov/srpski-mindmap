@@ -3,7 +3,7 @@
 1. внезапный  
 2. неожиданный
 
-iznenadan -> iznenadniji -> najiznenadniji
+iznenadan → iznenadniji → najiznenadniji
 
 ## Rečenice
 

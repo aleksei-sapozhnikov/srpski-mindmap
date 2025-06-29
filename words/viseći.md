@@ -2,7 +2,7 @@
 
 1. висячий, подвесной
 
-viseći -> više viseći (retko se koristi)
+viseći → više viseći (retko se koristi)
 
 ## Rečenice
 

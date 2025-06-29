@@ -3,7 +3,7 @@
 1. постоянный
 2. стабильный
 
-stalan -> stalniji -> najstalniji
+stalan → stalniji → najstalniji
 
 ## Rečenice
 

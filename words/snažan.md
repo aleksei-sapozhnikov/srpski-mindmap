@@ -3,7 +3,7 @@
 1. сильный, мощный
 2. крепкий, энергичный (физически или эмоционально)
 
-snažan -> snažniji -> najsnažniji
+snažan → snažniji → najsnažniji
 
 ## Rečenice
 

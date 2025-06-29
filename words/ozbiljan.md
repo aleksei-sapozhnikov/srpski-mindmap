@@ -3,7 +3,7 @@
 1. серьёзный
 2. важный
 
-ozbiljan -> ozbiljniji -> najozbiljniji
+ozbiljan → ozbiljniji → najozbiljniji
 
 ## Rečenice
 

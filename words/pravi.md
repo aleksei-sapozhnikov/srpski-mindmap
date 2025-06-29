@@ -5,7 +5,7 @@
 3. подходящий, как следует
 4. прямой (угол в геометрии)
 
-pravi -> praviji -> najpraviji
+pravi → praviji → najpraviji
 
 ## Rečenice
 

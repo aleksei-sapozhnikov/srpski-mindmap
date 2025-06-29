@@ -3,7 +3,7 @@
 1. большой
 2. крупный
 
-veliki -> veći -> najveći
+veliki → veći → najveći
 
 ## Rečenice
 

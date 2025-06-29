@@ -3,7 +3,7 @@
 1. трудный, утомительный  
 2. изнурительный, требующий усилий
 
-naporan -> naporniji -> najnaporniji
+naporan → naporniji → najnaporniji
 
 ## Rečenice
 

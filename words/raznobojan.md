@@ -2,7 +2,7 @@
 
 1. разноцветный, пёстрый
 
-raznobojan -> raznobojniji -> najraznobojniji
+raznobojan → raznobojniji → najraznobojniji
 
 ## Rečenice
 

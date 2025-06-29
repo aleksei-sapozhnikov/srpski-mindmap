@@ -2,7 +2,7 @@
 
 1. известный, узнаваемый
 
-poznat -> poznatiji -> najpoznatiji
+poznat → poznatiji → najpoznatiji
 
 ## Rečenice
 

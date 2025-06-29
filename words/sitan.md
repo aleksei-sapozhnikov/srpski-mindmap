@@ -2,7 +2,7 @@
 
 1. мелкий, маленький
 
-sitan -> sitniji -> najsitniji
+sitan → sitniji → najsitniji
 
 ## Rečenice
 

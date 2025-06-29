@@ -3,7 +3,7 @@
 1. неудобный, неудачный
 2. неловкий, рискованный, неприятный (в переносном смысле)
 
-nezgodan -> nezgodniji -> najnezgodniji
+nezgodan → nezgodniji → najnezgodniji
 
 ## Rečenice
 
