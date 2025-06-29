@@ -6,13 +6,13 @@
 
 Zvaću te čim stignem kući.
 
-Čim su ušli, počeo je sastanak.
+Čim su ušli, počeo je [[sastanak]].
 
 <br>
 
-#vrsta/prilog  
+#vrsta/veznik  
 #nivo/A2  
 
 #tema/svakodnevica  
 #tema/posao  
-#tema/porodica  
+#tema/porodica

@@ -2,13 +2,11 @@
 
 1. целый, весь, полный
 
-ceo -> celiji -> najceliji
-
 ## Rečenice
 
 Pojeo je ceo hleb sam.
 
-Ceo dan sam provela u šetnji po gradu.
+Ceo dan sam na [[sastanak|sastancima]]!
 
 <br>
 
@@ -17,4 +15,4 @@ Ceo dan sam provela u šetnji po gradu.
 
 #tema/svakodnevica  
 #tema/hrana  
-#tema/vreme  
+#tema/vreme

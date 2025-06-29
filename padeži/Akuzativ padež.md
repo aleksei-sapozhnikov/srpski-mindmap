@@ -12,10 +12,18 @@
 | pravilo | -***a***              | *=nominativ*       | -***u***               | *=nominativ* |
 | primer  | čovek -> čovek***a*** | sto -> sto         | knjiga -> knjig***u*** | more -> more |
 	
-| Množina | muški rod (živo)    | muški rod (neživo) | ženski rod            | srednji rod  |
-| ------- | ------------------- | ------------------ | --------------------- | ------------ |
-| pravilo | -***e***            | *=nominativ*       | -***e***              | *=nominativ* |
-| primer  | ljudi -> ljud***e*** | gradovi -> gradovi  | banane -> banan***e*** | sela -> sela  |
+| Množina | muški rod (živo)     | muški rod (neživo) | ženski rod             | srednji rod  |
+| ------- | -------------------- | ------------------ | ---------------------- | ------------ |
+| pravilo | -***e***             | *=nominativ*       | -***e***               | *=nominativ* |
+| primer  | ljudi -> ljud***e*** | gradovi -> gradovi | banane -> banan***e*** | sela -> sela |
+
+## Izuzeci
+
+Neki neživi [[pojam|pojmovi]] [[ponašati se|ponašaju]] se u množini kao živi, naprimer aktivnosti:
+* [[čas]] -> časov***e***
+* [[koncert]] -> koncert***e***
+* film -> filmov***e***
+* [[ples]] -> plesove
 
 ## Rečenice
 

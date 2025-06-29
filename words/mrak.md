@@ -2,11 +2,11 @@
 
 1. темнота, тьма  
 2. сумерки, отсутствие света  
-3. (разг.) что-то крутое, супер (фигуративно)
+3. (разг.) что-то крутое, суперское
 
 ## Rečenice
 
-U sobi je bio potpun mrak kada je nestala struja.
+U [[soba|sobi]] je bio [[potpun]] mrak kada je nestala struja.
 
 Raditi ***od jutra do mraka*** znači ceo dan.
 

@@ -7,7 +7,7 @@
   
   Žurimo na autobus.
   
-  Zašto si jutros toliko žurio?
+  Zašto si jutros [[toliko]] žurio?
   
   <br>
   

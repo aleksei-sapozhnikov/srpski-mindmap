@@ -4,11 +4,11 @@
 
 ## Rečenice
 
-On je mutiran na onlajn sastanku.
+Bio je mutiran na onlajn sastanku.
 
 Sastanak počinje u deset sati.
 
-Imamo važan sastanak u sobi za sastanke.
+Imamo važne sastanke u sobi za sastanke.
 
 <br>
 
