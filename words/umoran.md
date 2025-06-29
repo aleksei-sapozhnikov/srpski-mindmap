@@ -6,7 +6,7 @@
 
 Bio sam umoran posle [[trčanje|trčanja]].
 
-Bićemo umorni nakon dugog puta.
+Bili smo umorni [[prošli|prošlog]] puta nakon dugog [[putovanje|putovanja]].
 
 <br>
 
