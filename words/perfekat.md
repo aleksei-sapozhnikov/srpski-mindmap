@@ -4,9 +4,7 @@
 
 ## Rečenice
 
-Učimo kako se gradi perfekat glagola biti.
-
-Bez dobrog razumevanja perfekta, teško je učiti srpski.
+Perfekat se gradi kroz [[enklitika|enklitike]] od glagola biti: sam, si, je, smo, ste, su.
 
 Gramatika objašnjava [[upotreba|upotrebu]] perfekta u različitim kontekstima.
 
