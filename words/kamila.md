@@ -1,12 +1,12 @@
 # kamila - камила
 
-1. верблюд
+1. верблюд (любой)
 
 ## Rečenice
 
 Kamila hoda polako kroz [[pustinja|pustinju]].
 
-Deca su prvi put videla kamilu u zoološkom vrtu.
+Deca su prvi put videla [[dvogrb|dvogrbu]] kamilu u zoološkom vrtu.
 
 <br>
 
