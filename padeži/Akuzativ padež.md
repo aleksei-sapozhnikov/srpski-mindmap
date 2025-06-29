@@ -19,7 +19,7 @@
 
 ## Izuzeci
 
-Neki neživi [[pojam|pojmovi]] [[ponašati se|ponašaju]] se u množini kao živi, naprimer aktivnosti:
+Neki neživi [[pojam|pojmovi]] [[ponašati se|ponašaju]] se u množini kao živi, na primer aktivnosti:
 * [[čas]] -> časov***e***
 * [[koncert]] -> koncert***e***
 * film -> filmov***e***
@@ -29,7 +29,7 @@ Neki neživi [[pojam|pojmovi]] [[ponašati se|ponašaju]] se u množini kao živ
 
 Kupujem ***novu knjigu*** u knjižari.
 
-Dečak ide u pekaru po ***vrući hleb***.
+Dečak ide u pekaru po ***vruć hleb***.
 
 Vidimo ***male pse*** kako trče parkom.
 

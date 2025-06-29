@@ -7,7 +7,7 @@
 
 Vadim ribu iz mreže pažljivo.  
 
-Juče su vadili krompir iz zemlje.
+Juče su vadili [[krompir]] iz zemlje.
 
 <br>
 
