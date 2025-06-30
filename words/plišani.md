@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Dete je zaspalo sa plišanim [[medved|medom]] u naručju.
+Dete je [[zaspati|zaspalo]] sa plišanim [[medved|medom]] u naručju.
 
 Kupili smo plišani [[jastuk]] u obliku srca.
 
