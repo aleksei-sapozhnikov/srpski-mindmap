@@ -1,14 +1,19 @@
 # shvatiti - схватити
 
-1. понимать
+1. понять, осознать  
+2. догадаться, уловить суть
 
 ## Rečenice
 
-Ne shvatam šta [[želeti|želiš]] da kažeš.
+Nisam odmah shvatio šta [[želeti|želi]] da kaže.  
+
+[[konačno|Konačno]] sam shvatila [[zadatak]] posle objašnjenja.
 
 <br>
 
 #vrsta/glagol  
-#nivo/A1  
+#nivo/B1  
 
-#tema/česte-reči
+#tema/razumevanje  
+#tema/obrazovanje  
+#tema/komunikacija

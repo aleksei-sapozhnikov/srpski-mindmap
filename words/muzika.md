@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Muzičar je čovek koji svira muziku.
+Muzičar je čovek koji [[svirati|svira]] muziku.
 
 Je l’ Metalika tvoja omiljena muzička grupa?
 

@@ -1,10 +1,15 @@
 # srećan - срећан
 
-1. счастливый
+1. счастливый  
+2. удачливый
+
+srećan → srećniji → najsrećniji
 
 ## Rečenice
 
-Bio sam srećan tog dana.
+Bio je veoma srećan kada je čuo vest.  
+
+Želim ti srećan put i puno lepih [[trenutak|trenutaka]].
 
 Ceo dan su bili srećni zato što su bili [[zajedno]].
 
@@ -13,6 +18,6 @@ Ceo dan su bili srećni zato što su bili [[zajedno]].
 #vrsta/pridev  
 #nivo/A1  
 
-#tema/osеćanja  
+#tema/osećanja  
 #tema/ljudi  
-#tema/porodica
+#tema/želje
