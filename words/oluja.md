@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Oluja je srušila nekoliko stabala u selu.
+Oluja je srušila nekoliko [[stablo|stabala]] u selu.
 
 Letnje oluje su česte u ovom kraju.
 
