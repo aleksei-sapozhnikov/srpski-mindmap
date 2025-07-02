@@ -1,11 +1,11 @@
 # ključ - кључ
 
 1. ключ  
-2. решение, основа чего-либо (в переносном значении)
+2. решение, ключ к пониманию / успеху (перен.)
 
 ## Rečenice
 
-Izgubio sam ključ od stana.
+Izgubio sam ključ od [[stan|stana]].
 
 Ključ uspeha je upornost.
 
