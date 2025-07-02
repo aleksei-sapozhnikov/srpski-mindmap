@@ -7,7 +7,7 @@
 
 Srela sam Milicu u centru [[grad|grada]].
 
-Juče sam sreo starog [[profesor|profesora]] na ulici.
+Juče sam [[sresti|sreo]] starog [[profesor|profesora]] na ulici.
 
 <br>
 
