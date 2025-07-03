@@ -7,7 +7,7 @@ zvaničan → zvaničniji → najzvaničniji
 
 ## Rečenice
 
-Dobio je zvaničan poziv iz ambasade.
+[[dobiti|Dobio]] je zvaničan poziv iz ambasade.
 
 Ovo je bio njihov prvi zvaničan [[sastanak]].
 
