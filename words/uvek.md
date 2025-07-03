@@ -4,11 +4,11 @@
 
 ## Rečenice
 
-Uvek pijem kafu ujutru.  
+Uvek [[piti|pijem]] kafu ujutru.  
 
 On je uvek tačan.
 
-Oduvek znači da je nešto bilo tako od samog početka.
+***[[oduvek|Oduvek]]*** znači da je nešto bilo tako od samog početka.
 
 <br>
 
