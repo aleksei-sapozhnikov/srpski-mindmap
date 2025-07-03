@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-[[kamila|Kamila]] može dugo da živi u pustinji bez vode.
+[[kamila|Kamila]] može [[dugo|dugo]] da živi u pustinji bez vode.
 
-U pustinji je tokom dana veoma vruće, a noću hladno.
+U pustinji je [[tokom]] dana veoma vruće, a noću hladno.
 
 <br>
 

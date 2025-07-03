@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Čak i deca mogu da razumeju ovu priču.
+Čak i deca mogu da razumeju ovu priču.  
 
-Došao je čak iz drugog grada da me vidi.
+[[doći|Došao]] je čak iz drugog grada da me vidi.
 
 <br>
 
@@ -15,5 +15,5 @@ Došao je čak iz drugog grada da me vidi.
 #nivo/A2  
 
 #tema/svakodnevica  
-#tema/osećanja  
 #tema/razgovor  
+#tema/ljudi  

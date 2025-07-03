@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Učim arapski jezik već dve godine.
+Učim arapski jezik [[već]] dve godine.
 
 Na Arapskom poluostrvu se govori arapski.
 

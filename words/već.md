@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Već sam ti rekao sve što znam.
+Već sam ti [[reći|rekao]] sve što znam.
 
 Proveri [[peć]] u [[kotlarnica|kotlarnici]], kad već ideš tamo!
 
