@@ -9,6 +9,8 @@ Idemo na [[obala|obalu]] reke i pečemo ribu na [[vatra|vatri]].
 
 Juče smo pekli paprike za ajvar.
 
+Danas ću peći [[hleb]] kod [[kuća|kuće]].
+
 <br>
 
 #vrsta/glagol  

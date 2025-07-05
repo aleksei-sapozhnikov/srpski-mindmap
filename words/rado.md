@@ -1,13 +1,15 @@
 # rado - радo
 
-1. с удовольствием
-2. охотно
+1. с удовольствием  
+2. охотно  
+
+rado → radije → najradije
 
 ## Rečenice
 
 Rado ću ti pomoći oko [[zadatak|zadatka]].  
 
-Uvek rado [[putovati|putuje]] sa prijateljima.
+On [[uvek]] rado [[putovati|putuje]] sa prijateljima.
 
 <br>
 

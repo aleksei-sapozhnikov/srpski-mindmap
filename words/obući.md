@@ -1,12 +1,16 @@
 # obući - обући
 
-1. надеть, одеть (совершенный вид)
+1. надеть (совершенный вид)
+2. одеть (кого-то)
+
 
 ## Rečenice
 
 Obukla sam kaput i izašla [[napolje]].
 
-Deca su brzo obukla [[pidžama|pidžame]].
+Moram [[brzo]] da obučem jaknu, napolju je hladno.
+
+[[majka|Majka]] je obukla dete pre [[izlazak|izlaska]].
 
 <br>
 
