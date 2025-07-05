@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Sedeli smo na klupi u parku i razgovarali.
+Sedeli smo na klupi u [[park|parku]] i razgovarali.
 
-Učiteljica je pitala ko je ostavio knjigu na klupi.
+Učiteljica je [[pitati|pitala]] ko je ostavio knjigu na klupi.
 
 <br>
 

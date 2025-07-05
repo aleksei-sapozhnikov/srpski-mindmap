@@ -6,7 +6,7 @@
 
 Njen osmeh ulepšao mi je dan.
 
-Video sam iskren osmeh na njegovom licu.
+Video sam iskren osmeh na njegovom [[lice|licu]].
 
 <br>
 

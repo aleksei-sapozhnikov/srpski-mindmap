@@ -10,6 +10,8 @@ Kada ćeš doći [[kuća|kući]] večeras?
 
 Došli su iz [[Nemačka|Nemačke]] prošle nedelje.
 
+Doći će do promene plana [[zbog]] vremena.
+
 <br>
 
 #vrsta/glagol  
