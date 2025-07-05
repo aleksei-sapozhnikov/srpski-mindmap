@@ -2,12 +2,16 @@
 
 1. принести, привезти, доставить
 2. донести (дополнительно принести)
+3. принять (решение), вынести (приговор)
+
 
 ## Rečenice
 
 Doneli smo tortu na rođendan.
 
-Hoćeš li mi doneti čašu vode, molim te?
+Hoćeš li mi doneti jednu [[čaša|čašu]] vode, molim te?
+
+Sudija je doneo presudu posle [[dug|dugog]] razmatranja.
 
 <br>
 
