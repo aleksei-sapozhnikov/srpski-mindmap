@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Uprkos kiši, izašli smo u šetnju.
+Uprkos [[kiša|kiši]], izašli smo u [[šetnja|šetnju]].
 
-Uprkos lošim prognozama, putovanje je prošlo savršeno.
+Uprkos lošim prognozama, [[putovanje]] je prošlo savršeno.
 
 <br>
 
