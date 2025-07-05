@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Umoran sam, idem da legnem ranije večeras.
+[[umoran|Umoran]] sam, idem da legnem ranije večeras.
 
 Deca su legla odmah posle [[crtać|crtaća]].
 
