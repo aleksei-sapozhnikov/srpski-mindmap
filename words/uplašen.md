@@ -7,7 +7,7 @@
 
 Dete je bilo uplašeno zbog [[glasan|glasnog]] zvuka.
 
-Uplašeni psi su se sakrili ispod stola.
+Uplašeni psi su se sakrili [[ispod]] stola.
 
 <br>
 

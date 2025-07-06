@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-[[doći|Došlo]] je do saobraćajne nesreće na autoputu.
+[[doći do|Došlo]] je do saobraćajne nesreće na autoputu.
 
 [[nakon|Nakon]] lične nesreće, [[povući se|povukao]] se iz javnosti.
 
