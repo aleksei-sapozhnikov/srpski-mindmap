@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Dete je pod posebnom opekоm socijalne službe.
+Dete je pod [[poseban|posebnom]] opekоm socijalne službe.
 
-Kuća je zidana od crvene opeke.
+Kuća je [[zidati|zidana]] od crvene opeke.
 
 Zahvaljujući majčinoj opeci, uspešno je završio školu.
 
