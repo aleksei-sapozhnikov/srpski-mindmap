@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Ovo mi je omiljena knjiga.
+Ovo mi je omiljena [[knjiga]].
 
 Prošli put je bila omiljena [[pesma]] na radiju.
 

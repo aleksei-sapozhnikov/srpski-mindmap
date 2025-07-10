@@ -8,6 +8,8 @@ Idemo večeras u bioskop da gledamo novi film.
 
 Bioskop u našem gradu ima pet sala.
 
+Sanja i Milan planiraju da [[kupiti|kupe]] karte za bioskop za sutra.
+
 <br>
 
 #vrsta/imenica  

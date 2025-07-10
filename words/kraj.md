@@ -9,9 +9,9 @@
 
 [[staviti|Stavio]] je [[tanjir]] na kraj stola.
 
-***Na kraju*** često je izraz koji znači da se posle mnogih [[pokušaj|pokušaja]] nešto promenilo.
+[[na kraju|Na kraju]] često je izraz koji znači da se posle mnogih [[pokušaj|pokušaja]] nešto promenilo.
 
-Na kraju krajeva, svi pravimo [[greška|greške]].
+[[na kraju krajeva|Na kraju krajeva]], svi pravimo [[greška|greške]].
 
 U njihovom kraju ima mnogo zelenila i [[park|parkova]].
 

@@ -5,13 +5,13 @@
 
 ## Rečenice
 
-Imam dovoljno vremena, čekam slobodno.
+Imam dovoljno vremena, čekam [[slobodno]].
 
-U zadnje vreme pokušavam više da hodam.
+U zadnje vreme [[pokušavati|pokušavam]] više da hodam.
 
 Leti je vreme u Beogradu sunčano i vruće.
 
-***Na vreme*** znači da je tačno: ni prerano ni prekasno.
+[[na vreme|Na vreme]] znači da je tačno: ni prerano ni prekasno.
 
 <br>
 
