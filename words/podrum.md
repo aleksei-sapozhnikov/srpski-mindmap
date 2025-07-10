@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-U podrumu čuvamo zimnicu.
+U podrumu čuvamo [[zimnica|zimnicu]].
 
-Deca su se igrala u starim podrumima zgrade.
+Deca su se igrala u starim podrumima [[zgrada|zgrade]].
 
 <br>
 

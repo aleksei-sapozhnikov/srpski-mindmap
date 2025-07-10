@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Držim knjigu u rukama.
+Držim [[knjiga|knjigu]] u rukama.
 
-Profesor drži čas matematike svaki dan.
+Profesor drži čas matematike [[svak|svaki]] dan.
 
 <br>
 

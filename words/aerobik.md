@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Žene obično ne vole da igraju [[fudbal]], ali vole da rade aerobik.
+Žene obično ne vole da igraju [[fudbal]], ali vole da [[raditi|rade]] aerobik.
 
 <br>
 

@@ -6,13 +6,13 @@
 
 ## Rečenice
 
-Kada dolaziš kući?
+Kada [[dolaziti|dolaziš]] kući?
 
-Rekla je da će doći kada završi posao.
+Rekla je da će [[doći]] kada završi posao.
 
-Ležim u kadi, u toploj vodi, skoro svako veče.
+Ležim u kadi, u toploj [[voda|vodi]], skoro svako veče.
 
-Kupili su novu kadu za kupatilo.
+Kupili su novu kadu za [[kupatilo]].
 
 <br>
 

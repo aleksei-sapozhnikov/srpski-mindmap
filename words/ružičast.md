@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-Kupila je ružičastu haljinu za proslavu.
+Kupila je ružičastu [[haljina|haljinu]] za proslavu.
 
-Dete je crtalo kuću sa ružičastim krovom.
+Dete je crtalo kuću sa ružičastim [[krov|krovom]].
 
 <br>
 

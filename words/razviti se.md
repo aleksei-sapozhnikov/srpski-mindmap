@@ -6,7 +6,7 @@
 
 Zemlja se brzo razvila poslednjih godina.
 
-Ako se sve bude razvijalo ovako, biće odlično.
+[[ako|Ako]] se sve bude razvijalo ovako, biće odlično.
 
 <br>
 
