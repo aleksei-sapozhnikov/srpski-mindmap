@@ -8,11 +8,11 @@
 
 Mačka spava ispod stola.
 
-To je ispod svakog nivoa pristojnosti.
+To je ispod svakog [[nivo|nivoa]] pristojnosti.
 
-Izvukao je kutije ispod kreveta.
+[[izvući|Izvukao]] je kutije ispod [[krevet|kreveta]].
 
-Ispod snega su se pojavile prve biljke.
+Ispod snega su se pojavile prve [[biljka|biljke]].
 
 <br>
 

@@ -7,7 +7,7 @@
 
 Sneg pada već satima bez prestanka.
 
-Lišće polako pada sa drveća.
+[[lišće|Lišće]] polako pada sa drveća.
 
 <br>
 

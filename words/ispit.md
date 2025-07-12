@@ -4,13 +4,15 @@
 
 ## Rečenice
 
-U ispitnom roku će se videti koliko si učio cele [[godina|godine]].
+U [[ispitni rok|ispitnom roku]] će se videti koliko si učio cele [[godina|godine]].
 
-Spremam se za ispit u biblioteci.
+[[spremati se|Spremam]] se za ispit u biblioteci.
 
 <br>
 
 #vrsta/imenica  
 #nivo/A1  
 
-#tema/učenje
+#tema/učenje  
+#tema/škola  
+#tema/obrazovanje

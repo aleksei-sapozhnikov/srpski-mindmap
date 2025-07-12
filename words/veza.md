@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-[[prekinuti|Prekinuo]] je vezu bez objašnjenja.
+[[prekinuti|Prekinuo]] je vezu bez [[objašnjenje|objašnjenja]].
 
-Nemam dobru internet vezu ovde.
+Nemam [[dobar|dobru]] vezu sa internetom ovde.
 
 <br>
 

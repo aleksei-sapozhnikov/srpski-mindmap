@@ -9,6 +9,10 @@ Ne mogu da ti [[pomoći|pomognem]] sada, imam [[sastanak]].
 
 Moći ćeš da ideš na [[izlet]] ako završiš [[domaći]].
 
+– [[hteti|Hoćeš]] kafu?
+– Ne mogu, hvala.
+
+
 <br>
 
 #vrsta/glagol  
