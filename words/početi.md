@@ -5,9 +5,11 @@
 
 ## Rečenice
 
+Zove me kada počneš da [[vežbati|vežbaš]].
+
 [[Konačno]] smo počeli [[sastanak]] posle [[dug|dugog]] čekanja.  
 
-Počeću da učim srpski svakog dana po pola sata.
+Počeću da [[učiti|učim]] srpski svakog dana po pola sata.
 
 <br>
 
