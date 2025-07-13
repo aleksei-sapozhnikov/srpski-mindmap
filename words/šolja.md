@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Popila je kafu iz omiljene šolje.
+[[popiti|Popila]] je kafu iz [[omiljen|omiljene]] šolje.
 
 Na stolu je [[stajati|stajala]] prazna šolja na [[tanjir|tanjiriću]].
 
