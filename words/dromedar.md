@@ -6,9 +6,9 @@
 
 Dromedar živi uglavnom u pustinjskim predelima severne Afrike i Bliskog istoka.
 
-Dromedari su prilagođeni sušnim uslovima i mogu da prežive bez vode dugo vremena.
+Dromedari su prilagođeni sušnim uslovima i mogu da prežive bez [[voda|vode]] dugo vremena.
 
-U prošlosti su ***dromedare*** često nazivali ***[[vergljud]]***, ali danas je ta reč arhaična.
+U [[prošlost|prošlosti]] su ***dromedare*** često nazivali ***[[vergljud]]***, ali danas je ta reč arhaična.
 
 <br>
 

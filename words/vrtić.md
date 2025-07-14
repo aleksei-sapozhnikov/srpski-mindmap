@@ -1,20 +1,18 @@
-# obližnji - оближњи
+# vrtić - вртић
 
-1. близлежащий, находящийся поблизости
+1. детский сад
 
 ## Rečenice
 
-Stanujem u obližnjoj ulici.
+Moje [[dete]] ide u vrtić [[svak|svaki]] dan.
 
-Obližnje prodavnice su zatvorene zbog praznika.
-
-Vrtić nije [[blizak|najbliži]], ali je obližnji i lako dostupan.
+U vrtiću uče [[pesma|pesmice]] i igraju se.
 
 <br>
 
-#vrsta/pridev  
-#nivo/B1  
+#vrsta/imenica  
+#nivo/A1  
 
-#tema/prostor  
-#tema/gradovi  
-#tema/svakodnevica  
+#tema/škola  
+#tema/deca  
+#tema/obrazovanje  

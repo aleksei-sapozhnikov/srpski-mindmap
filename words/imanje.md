@@ -6,7 +6,7 @@
 
 ## Rečenice
 
-Porodica ima veliko imanje na selu.
+[[porodica|Porodica]] ima veliko imanje na selu.
 
 Na tom imanju [[gajiti|uzgajaju]] voće i povrće.
 

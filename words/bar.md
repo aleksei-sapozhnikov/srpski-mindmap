@@ -5,13 +5,13 @@
 
 ## Rečenice
 
-Idemo večeras u bar da popijemo pivo.
+Idemo [[večeras]] u bar da [[popiti|popijemo]] pivo.
 
-Bar da si rekao istinu.
+Bar da si rekao [[istina|istinu]].
 
-Prilog ***bar*** je kao ***[[barem]]***, ali u razgovoru je opušteniji i manje ozbiljan.
+Prilog ***bar*** je kao ***[[barem]]***, ali u razgovoru je opušteniji i manje [[ozbiljan]].
 
-Nisam gladan, bar da popijem nešto.
+Nisam gladan, ali bar nešto da [[popiti|popijem]].
 
 <br>
 
