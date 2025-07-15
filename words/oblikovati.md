@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Oni koji žive danas oblikuju budućnost za omladinu.
+Oni koji žive danas oblikuju [[budućnost]] za omladinu.
 
 Umetnici oblikuju skulpture od gline.
 
