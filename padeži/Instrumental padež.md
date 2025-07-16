@@ -6,18 +6,26 @@
 
 ## Pravila
 
-|         | muški rod                            | ženski rod                             | srednji rod                            |
-| ------- | ------------------------------------ | -------------------------------------- | -------------------------------------- |
-| Jednina |                                      |                                        |                                        |
-| pravilo | ***-im*** \| ***-om/em***            | ***-om*** \| ***-om***                 | ***-im*** \| ***-om***                 |
-| primer  | moj sin → sa moj***im*** sin***om*** | moja žena → sa moj***om*** žen***om*** | moje vino → sa moj***im*** vin***om*** |
-| primer  | vaš muž → sa vaš***im*** muž***em*** |                                        |                                        |
-	
-| Množina | muški rod                                   | ženski rod                              | srednji rod                              |
-| ------- | ------------------------------------------- | --------------------------------------- | ---------------------------------------- |
-| pravilo | ***-im*** \| ***-ima***                     | ***-im*** \| ***-ama***                 | ***-im*** \| ***-ima***                  |
-| primer  | moji sinovi → sa moj***im*** sinov***ima*** | moje žene → sa moj***im*** žen***ama*** | moja vina → sa moj***im*** vin***ima*** |
-| primer  | vaši muževi → sa vaš***im*** mužev***ima*** |                                         |                                          |
+Instrumental se najčešće koristi sa predlozima: ***sa***, ***s***, ***između***. Ređe se koristi i sa predlozima: ***nad***, ***pod*** u značenju [[saradnja|saradnje]].
+
+|           | muški rod                      | ženski rod                       | srednji rod                      |
+| --------- | ------------------------------ | -------------------------------- | -------------------------------- |
+| *Jednina* |                                |                                  |                                  |
+| pravilo   | ***-om/em***                   | ***-om***                        | ***-om***                        |
+| primer    | sin → sin***om***              | žena → žen***om***               | vino → vin***om***               |
+| primer    | muž → muž***em***              |                                  |                                  |
+| *Pridev*  |                                |                                  |                                  |
+| pravilo   | ***-im***                      | ***-om***                        | ***-im***                        |
+| primer    | moj sin → sa moj***im*** sinom | moja žena → sa moj***om*** ženom | moje vino → sa moj***im*** vinom |
+
+|           | muški rod                             | ženski rod                        | srednji rod                       |
+| --------- | ------------------------------------- | --------------------------------- | --------------------------------- |
+| *Množina* |                                       |                                   |                                   |
+| pravilo   | ***-ima***                            | ***-ama***                        | ***-ima***                        |
+| primer    | sinovi → sinov***ima***               | žene → žen***ama***               | vina → vin***ima***               |
+| *Pridev*  |                                       |                                   |                                   |
+| pravilo   | ***-im***                             | ***-im***                         | ***-im***                         |
+| primer    | moji sinovi → sa moj***im*** sinovima | moje žene → sa moj***im*** ženama | moja vina → sa moj***im*** vinima |
 
 ## Izuzeci
 
@@ -28,11 +36,13 @@
 
 Uvek šetam sa svojim [[pas|psom]] ujutru.
 
-Razgovarali smo sa direktorom škole.
+[[raditi|Radimo]] ***nad*** projektom ***pod*** rukovodstvom direktora.
 
-Idem na izlet sa prijateljima.
+[[putovati|Putovao]] je sa starim [[prijatelj|prijateljem]] po Evropi.
 
-Pila je kafu sa svojom sestrom.
+Idem na [[izlet]] sa prijateljima.
+
+Pila je kafu sa svojom [[sestra|sestrom]].
 
 <br>
 

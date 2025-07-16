@@ -6,10 +6,10 @@
 
 1. Nominativ - ko? šta?  (именительный)  
 2. [[Genitiv padež|Genitiv]] - koga? čega?  (родительный)  
-3. Dativ - kome? čemu?  (дательный)  
+3. [[Dativ padež|Dativ]] - kome? čemu?  (дательный)  
 4. [[Akuzativ padež|Akuzativ]] - koga? šta?  (винительный)  
 5. Vokativ - (ej!)  (звательный)  
-6. [[instrumental padež|Instrumental]] - s kim? s čim?  (творительный)  
+6. [[Instrumental padež|Instrumental]] - s kim? s čim?  (творительный)  
 7. [[Lokativ padež|Lokativ]] - o kome? o čemu?  (предложный)
 
 ## Promena
@@ -23,7 +23,6 @@
 | Vokativ      | pse      | pasovi    | mačko     | mačke      | selo       | sela        |
 | Instrumental | sa psom  | sa psima  | sa mačkom | sa mačkama | sa selom   | sa selima   |
 | Lokativ      | o psu    | o psima   | o mački   | o mačkama  | o selu     | o selima    |
-|              |          |           |           |            |            |             |
 
 ## Rečenice
 

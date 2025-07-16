@@ -9,6 +9,8 @@ Pas laje na nepoznate [[čovek|ljude]].
 
 Njihov pas je vrlo miran i poslušan.
 
+Šetali smo sa psom u [[park|parku]].
+
 <br>
 
 #vrsta/imenica  
