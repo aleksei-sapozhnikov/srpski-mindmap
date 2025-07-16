@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Na vrh brda vrba mrda.
+Na [[vrh]] brda vrba mrda.
 
 Iza sela [[uzdići se|se uzdiže]] veliko brdo.
 
