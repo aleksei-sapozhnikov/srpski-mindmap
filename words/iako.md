@@ -9,6 +9,8 @@
 
 Iako je umoran, [[nastavljati|nastavlja]] da radi.
 
+Iako znam da imaš problem, [[ipak]] neću da [[razgovarati|razgovaram]] o tome.
+
 <br>
 
 #vrsta/veznik  
