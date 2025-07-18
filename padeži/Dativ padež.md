@@ -45,7 +45,13 @@ Uprkos [[problem|problemima]], nastavili su da rade.
 
 Ka [[dete|detetu]] je potrčala mačka.
 
-<br>
+[[učenik|Učenici]] se raduju školskom [[raspust|raspustu]].
+
+Nadamo se mirnom [[vikend|vikendu]].
+
+Deca se [[diviti se|dive]] roditeljima.
+
+ <br>
 
 #vrsta/imenica  
 #nivo/A1  
