@@ -21,9 +21,11 @@
 
 Neki neživi [[pojam|pojmovi]] [[ponašati se|ponašaju]] se u množini kao živi, na primer aktivnosti:
 * [[čas]] → časov***e***
-* [[koncert]] → koncert***e***
+* [[dan]] - dan***e***
 * film → filmov***e***
+* [[koncert]] → koncert***e***
 * [[ples]] → plesove
+* [[poklon]] - poklon***e***
 * [[ukras]] → ukras***e***
 
 ## Rečenice

@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Želim ti puno sreće u novom poslu.  
+Želim ti puno sreće u novom [[posao|poslu]].  
 
-Njena sreća se videla na licu.
+Njena sreća se [[videti|videla]] na [[lice|lica]].
 
 <br>
 

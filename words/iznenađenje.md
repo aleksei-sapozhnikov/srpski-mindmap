@@ -1,13 +1,13 @@
 # iznenađenje - изненађење
 
-1. неожиданность  
-2. сюрприз
+1. неожиданность, сюрприз
+2. удивление
 
 ## Rečenice
 
 Rođendan je bio [[pravi|pravo]] iznenađenje za nju.
 
-Dobio sam prijatno iznenađenje na [[posao|poslu]].
+Prijatno iznenađenje me je dočekalo na [[posao|poslu]].
 
 <br>
 

@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Dobio sam divan poklon za rođendan.
+Dobio sam [[divan]] poklon za rođendan.
 
 Ona je donela poklon domaćinima.
 
