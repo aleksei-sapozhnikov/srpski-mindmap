@@ -6,7 +6,7 @@
 
 Zaboravio sam gde sam [[ostaviti|ostavio]] telefon.  
 
-Nemojte zaboraviti da ponesete pasoš sutra.
+Nemojte zaboraviti da ponesete pasoš [[sutra]].
 
 <br>
 
