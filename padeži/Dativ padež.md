@@ -31,20 +31,6 @@ Dativ se često koristi s predlogom: ***ka***, ***prema***, ***uprkos***.
 | primer    | prema dobr***im*** drugovima | uprkos star***im*** ženama  | ka mal***im*** životinjama    |
 | primer    | prema tešk***im*** zadacima  | prema drag***im*** sestrama | uprkos čudn***im*** pravilima |
 
-## Lične zamenice
-
-| Nominativ | Dativ (dugi) | Dativ (kratki) |
-| --------- | ------------ | -------------- |
-| *Jednina* |              |                |
-| ja        | meni         | mi             |
-| ti        | tebi         | ti             |
-| on/ono    | njemu        | mu             |
-| ona       | njoj         | joj            |
-| *Množina* |              |                |
-| mi        | nama         | nam            |
-| vi        | vama         | vam            |
-| oni/one   | njima        | im             |
-
 ## Izuzeci
 
 * [[deca]] → prema ***deci***
