@@ -7,7 +7,7 @@
 
 Zatvori kapiju kad ulaziš u [[dvorište]].
 
-[[stajati|Stajao]] je pored kapije i čekao nekoga.
+[[stajati|Stajao]] je [[pored]] kapije i čekao nekoga.
 
 <br>
 
