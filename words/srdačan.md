@@ -9,7 +9,7 @@ srdačan → srdačniji → najsrdačniji
 
 Hvala na srdačnoj dobrodošlici!
 
-On je jedan od najsrdačnijih ljudi koje poznajem.
+On je jedan od najsrdačnijih [[čovek|ljudi]] koje poznajem.
 
 <br>
 

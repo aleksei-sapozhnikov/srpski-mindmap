@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Kupili smo novi fiokar za kancelariju.
+[[kupiti|Kupili]] smo novi fiokar za [[kancelarija|kancelariju]].
 
-Stari fiokari iz arhive biće prebačeni u magacin.
+Stari fiokari iz arhive biće prebačeni u [[magacin]].
 
 ## Slike
 

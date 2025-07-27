@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-To je suština onoga što sam želeo da kažem.
+To je suština onoga što sam [[želeti|želeo]] da kažem.
 
-Suština problema je u nedostatku komunikacije.
+Suština [[problem|problema]] je u nedostatku [[komunikacija|komunikacije]].
 
 <br>
 
