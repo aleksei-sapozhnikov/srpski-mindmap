@@ -6,7 +6,7 @@
 
 Dete je vozilo trotinet po [[park|parku]].  
 
-Kupio je električni trotinet za vožnju po gradu.
+[[kupiti|Kupio]] je električni trotinet za [[vožnja|vožnju]] po gradu.
 
 <br>
 

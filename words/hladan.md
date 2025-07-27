@@ -3,6 +3,8 @@
 1. холодный  
 2. прохладный
 
+hladan → hladniji → najhladniji
+
 ## Rečenice
 
 [[voda|Voda]] je hladna.
@@ -11,7 +13,7 @@
 
 Biće hladno [[sutra]] ujutru.
 
-Bićemo hladni ako ne [[obući|obučemo]] kaput.
+Biće nam hladno ako ne [[obući|obučemo]] kaput.
 
 <br>
 

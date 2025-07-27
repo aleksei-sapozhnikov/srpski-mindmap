@@ -3,6 +3,8 @@
 1. холодно  
 2. прохладно
 
+hladno → hladnije → najhladnije
+
 ## Rečenice
 
 [[danas|Danas]] je napolju [[veoma]] hladno.
