@@ -1,12 +1,16 @@
 # vek - век
 
-1. век, столетие
+1. век (столетие)  
+2. жизнь, век (продолжительность жизни чего-либо)  
+3. срок (время существования, действия)
 
 ## Rečenice
 
-Devetnaesti vek se na srpskom piše kao: ***19. vek***.
+U 20. veku [[dogoditi se|dogodile]] su se velike [[promena|promene]] u svetu.
 
-Kada želim da napišem ***u devetnaestom veku*** na srpskom, napišem: ***u 19. veku***.
+Kada [[želeti|želim]] da [[napisati|napišem]] ***u devetnaestom veku*** na srpskom, napišem: ***u 19. veku***.
+
+[[redovan|Redovni]] tehnički [[servis]] produžio je vek [[trajanje|trajanja]] uređaja.
 
 <br>
 
