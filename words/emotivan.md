@@ -3,9 +3,11 @@
 1. эмоциональный  
 2. чувствительный
 
+emotivan → emotivniji → najemotivniji
+
 ## Rečenice
 
-Film je bio [[veoma]] emotivan i svi su plakali.
+Film je bio [[veoma]] emotivan i svi su [[plakati|plakali]].
 
 Njegov [[govor]] je bio emotivan i [[iskren]].
 
