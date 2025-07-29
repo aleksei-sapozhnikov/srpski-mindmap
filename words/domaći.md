@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Završio sam domaći i sada mogu da idem [[napolje]].
+[[završiti|Završio]] sam domaći i sada mogu da idem [[napolje]].
 
-Kupujemo domaći sir na [[pijaca|pijaci]] svake subote.
+[[kupovati|Kupujemo]] domaći sir na [[pijaca|pijaci]] svake [[subota|subote]].
 
 <br>
 

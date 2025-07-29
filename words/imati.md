@@ -6,13 +6,13 @@
 
 ## Rečenice
 
-Imam dovoljno vremena da završim sve [[zadatak|zadatke]].
+Imam [[dovoljno]] vremena da [[završiti|završim]] sve [[zadatak|zadatke]].
 
 Imam mnogo posla da [[raditi|radim]].
 
 Imam nešto da ti [[kazati|kažem]].
 
-Ima da [[jesti|jedeš]] ovu supu!
+Ima da [[jesti|jedeš]] ovu [[supa|supu]]!
 
 Ima da [[pobediti|pobedim]] u utakmici!
 
