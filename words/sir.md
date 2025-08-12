@@ -6,7 +6,7 @@
 
 Kupio sam domaći sir na [[pijaca|pijaci]].
 
-Ne jedem sir koji je previše slan.
+Ne [[jesti|jedem]] sir koji je previše slan.
 
 <br>
 

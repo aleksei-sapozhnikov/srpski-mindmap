@@ -11,9 +11,9 @@ Instrumental se najčešće koristi sa predlozima: ***sa***, ***s***, ***između
 |           | muški rod                      | ženski rod                       | srednji rod                      |
 | --------- | ------------------------------ | -------------------------------- | -------------------------------- |
 | *Jednina* |                                |                                  |                                  |
-| pravilo   | ***-om/em***                   | ***-om***                        | ***-om***                        |
-| primer    | sin → sin***om***              | žena → žen***om***               | vino → vin***om***               |
-| primer    | muž → muž***em***              |                                  |                                  |
+| pravilo   | ***-om/em***                   | ***-om***                        | ***-om/em***                     |
+| primer    | sin → sin***om***              | žena → žen***om***               | vin***o*** → vin***om***         |
+| primer    | muž → muž***em***              |                                  | sedišt***e*** → sedišt***em***   |
 | *Pridev*  |                                |                                  |                                  |
 | pravilo   | ***-im***                      | ***-om***                        | ***-im***                        |
 | primer    | moj sin → sa moj***im*** sinom | moja žena → sa moj***om*** ženom | moje vino → sa moj***im*** vinom |
