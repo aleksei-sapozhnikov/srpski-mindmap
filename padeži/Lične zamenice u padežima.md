@@ -1,13 +1,13 @@
 # Lične zamenice u padežima
 
-| Nominativ   | Akuzativ (dugi-kratki) | Dativ (dugi-kratki) |
-| ----------- | ---------------------- | ------------------- |
-| *Jednina*   |                        |                     |
-| ja          | mene – me              | meni – mi           |
-| ti          | tebe – te              | tebi – ti           |
-| on/ono      | njega – ga             | njemu – mu          |
-| ona         | nju – je / ju          | njoj – joj          |
-| *Množina*   |                        |                     |
-| mi          | nas – nas              | nama – nam          |
-| vi          | vas – vas              | vama – vam          |
-| oni/one/ona | njih – ih              | njima – im          |
+| Nominativ (ko?) | Akuzativ (koga?) | Dativ (kome?) | Lokativ (o kome?) | Instrumental (s kim?) |
+| --------------- | ---------------- | ------------- | ----------------- | --------------------- |
+| *Jednina*       |                  |               |                   |                       |
+| ja              | mene – me        | meni – mi     | meni – mi         | mnom                  |
+| ti              | tebe – te        | tebi – ti     | tebi – ti         | tobom                 |
+| on/ono          | njega – ga       | njemu – mu    | njemu – mu        | njim                  |
+| ona             | nju – je / ju    | njoj – joj    | njoj – joj        | njom                  |
+| *Množina*       |                  |               |                   |                       |
+| mi              | nas – nas        | nama – nam    | nama – nam        | nama                  |
+| vi              | vas – vas        | vama – vam    | vama – vam        | vama                  |
+| oni/one/ona     | njih – ih        | njima – im    | njima – im        | njima                 |
