@@ -9,6 +9,8 @@ Deca su se igrala na [[igralište|igralištu]] do [[mrak|mraka]].
 
 Roditelji uče svoju decu kako da budu odgovorni.
 
+Moj [[brat]] ima troje dece.
+
 <br>
 
 #vrsta/imenica  
