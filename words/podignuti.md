@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-Podigao je [[torba|torbu]] sa poda i krenuo ka vratima.
+Podigao je [[torba|torbu]] sa poda i [[krenuti|krenuo]] ka vratima.
 
-Učitelj je podigao glas da smiri razred.
+Učitelj je podigao [[glas]] da smiri [[razred]].
 
 <br>
 
