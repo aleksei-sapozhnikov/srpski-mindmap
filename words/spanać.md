@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Ne volim da jedem spanać, ima gorak ukus.
+Ne volim da [[jesti|jedem]] spanać, ima [[gorak]] ukus.
 
 Mama je pripremila [[pire]] od [[krompir|krompira]] i spanaća.
 

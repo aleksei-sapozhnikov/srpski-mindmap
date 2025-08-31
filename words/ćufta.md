@@ -6,7 +6,7 @@
 
 Za [[ručak]] smo imali ćufte od [[ćuretina|ćuretine]] u [[paradajz|paradajz]] sosu.
 
-[[spremiti|Spremila]] je domaće ćufte sa [[pirinač|pirinčem]].
+[[spremiti|Spremila]] je domaće ćufte sa [[pirinač 1|pirinčem]].
 
 <br>
 

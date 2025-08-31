@@ -4,9 +4,9 @@
 
 ## Rečenice
 
-Za večeru ćemo spremiti pečeni krompir.
+Za [[večera|večeru]] ćemo spremiti pečeni krompir.
 
-Krompir se koristi u mnogim jelima.
+Krompir se koristi u mnogim [[jelo|jelima]].
 
 <br>
 

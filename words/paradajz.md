@@ -6,7 +6,7 @@
 
 Kupili smo svež paradajz na [[pijaca|pijaci]].
 
-Salata od krastavca i paradajza je moja omiljena.
+Salata od [[krastavac|krastavca]] i paradajza je moja omiljena.
 
 <br>
 

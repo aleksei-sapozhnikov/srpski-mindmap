@@ -5,11 +5,11 @@
 
 ## Rečenice
 
-Povrće je važno za zdravu ishranu.
+Povrće je važno za zdravu [[ishrana|ishranu]].
 
-U bašti gajimo razno povrće.
+U bašti [[gajiti|gajimo]] razno povrće.
 
-Povrće u restoranu je bilo jako [[kiseo|kiselo]].
+Povrće u restoranu nije bilo [[svež|sveže]].
 
 <br>
 
