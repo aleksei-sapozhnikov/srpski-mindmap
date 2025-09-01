@@ -9,6 +9,8 @@ Nemoj seći [[hleb]] tim nožem, nije oštar.
 
 [[otac|Otac]] je sekao [[drvo|drva]] ceo dan.
 
+Sečem [[karfiol]] za [[supa|supu]].
+
 <br>
 
 #vrsta/glagol  

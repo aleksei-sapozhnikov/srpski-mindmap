@@ -5,9 +5,11 @@
 
 ## Rečenice
 
-Idem da perem sudove jer niko nije hteo da ih prati.
+Idem da perem [[sudovi|sudove]] jer niko nije hteo da ih pere.
 
 [[ručnik|Ručnike]] treba prati na višoj temperaturi.
+
+Perem [[povrće]] pre [[upotreba|upotrebe]].
 
 <br>
 

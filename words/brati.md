@@ -8,6 +8,7 @@ Deca su brala [[jabuka|jabuke]] u [[voćnjak|voćnjaku]].
 
 Brali smo cveće na [[livada|livadi]].  
 
+Berem [[paradajz]] u svojoj [[bašta|bašti]].
   <br>
 
 #vrsta/glagol  
