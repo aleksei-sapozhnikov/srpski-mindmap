@@ -3,6 +3,8 @@
 1. много  
 2. весьма, очень (в значении степени)
 
+mnogo → više → najviše  
+
 ## Rečenice
 
 Imam mnogo [[posao|posla]] danas.
