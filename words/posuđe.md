@@ -6,7 +6,7 @@
 
 Sve posuđe smo [[prati|oprali]] i vratili na svoje mesto.
 
-U prodavnici kućnih potrepština imaju lepo keramičko posuđe.
+U prodavnici kućnih [[potrepština|potrepština]] imaju lepo keramičko posuđe.
 
 <br>
 
