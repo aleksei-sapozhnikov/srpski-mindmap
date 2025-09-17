@@ -1,13 +1,13 @@
 # dug - дуг
 
-1. долгий, продолжительный  
-2. длинный (по длине или во времени)
+1. долгий, продолжительный
+2. длинный (в первую очередь по времени или ощущениям)
 
 dug → duži → najduži
 
 ## Rečenice
 
-Imali smo dug razgovor o važnim temama.  
+Imali smo dug [[razgovor]] o [[važan|važnim]] temama.  
 
 Put kroz [[planina|planinu]] je bio dug i [[naporan]].
 
