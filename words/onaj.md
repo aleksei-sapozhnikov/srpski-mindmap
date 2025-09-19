@@ -6,6 +6,8 @@
 
 Onaj [[čovek]] tamo je moj [[komšija]].
 
+Oni [[most|mostovi]] u Beogradu su stari.
+
 Sećaš li se one [[pesma|pesme]] koju smo [[slušati|slušali]] prošlog leta?
 
 <br>
