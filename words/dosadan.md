@@ -9,7 +9,9 @@ dosadan → dosadniji → najdosadniji
 
 Film je bio [[toliko]] dosadan da sam [[zaspati|zaspao]].
 
-Deca su bila dosadna jer nisu imala šta da rade.
+[[deca|Deca]] su bila dosadna jer nisu [[imati|imala]] šta da [[raditi|rade]].
+
+Dosadan je kao [[muva]]!
 
 <br>
 
