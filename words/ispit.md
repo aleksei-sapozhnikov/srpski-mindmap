@@ -8,6 +8,8 @@ U [[ispitni rok|ispitnom roku]] će se videti koliko si učio cele [[godina|godi
 
 [[spremati se|Spremam]] se za ispit u biblioteci.
 
+[[položiti|Položiti]] ispit je mnogo [[dobro|bolje]] nego da [[pasti|pasti]] ispit.
+
 <br>
 
 #vrsta/imenica  
