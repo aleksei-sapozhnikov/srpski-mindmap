@@ -5,9 +5,9 @@
 
 ## Rečenice
 
-Radim od osam do pet [[svak|svaki]] dan.
+Radim od osam do pet [[svaki|svaki]] dan.
 
-Radio sam na važnom projektu juče.
+Radio sam na važnom [[projekat|projektu]] juče.
 
 Radiću [[sutra]] od kuće.
 

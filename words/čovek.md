@@ -7,7 +7,7 @@
 
 Ko je taj čovek koji stoji [[pored]] tebe?
 
-[[svak|Svaki]] čovek ima pravo na [[sloboda|slobodu]].
+[[svaki|Svaki]] čovek ima pravo na [[sloboda|slobodu]].
 
 <br>
 

@@ -6,7 +6,7 @@
 
 Svaki [[put]] kad ga vidim, on se [[nasmejati se|nasmeje]].
 
-Kasniš [[svak|svaki]] put kad [[imati|imamo]] sastanak!
+Kasniš [[svaki|svaki]] put kad [[imati|imamo]] sastanak!
 
 <br>
 

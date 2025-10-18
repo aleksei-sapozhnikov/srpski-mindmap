@@ -6,7 +6,7 @@
 
 Spakovao je [[stvar|stvari]] u veliki kofer.
 
-Na [[aerodrom|aerodromu]] su proverili [[svak|svaki]] kofer.
+Na [[aerodrom|aerodromu]] su proverili [[svaki|svaki]] kofer.
 
 <br>
 

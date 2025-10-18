@@ -7,7 +7,7 @@
 
 Vozilo je parkirano ispred [[zgrada|zgrade]].
 
-Policija je zaustavila [[svak|svako]] sumnjivo vozilo.
+Policija je zaustavila [[svaki|svako]] sumnjivo vozilo.
 
 <br>
 

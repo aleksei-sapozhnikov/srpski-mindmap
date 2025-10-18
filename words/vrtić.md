@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Moje [[dete]] ide u vrtić [[svak|svaki]] dan.
+Moje [[dete]] ide u vrtić [[svaki|svaki]] dan.
 
 U vrtiću uče [[pesma|pesmice]] i igraju se.
 

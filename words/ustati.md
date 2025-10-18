@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Ustajem [[svak|svakog]] jutra u pet sati.
+Ustajem [[svaki|svakog]] jutra u pet sati.
 
 Juče smo ustali [[kasno]] jer je bio vikend.
 

@@ -7,7 +7,7 @@
 
 Držim [[knjiga|knjigu]] u rukama.
 
-Profesor drži čas matematike [[svak|svaki]] dan.
+Profesor drži čas matematike [[svaki|svaki]] dan.
 
 <br>
 

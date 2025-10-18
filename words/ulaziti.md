@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Ulazim u kuću [[svak|svakog]] dana u isto vreme.
+Ulazim u kuću [[svaki|svakog]] dana u isto vreme.
 
 Deca su ulazila u učionicu [[tiho]].
 

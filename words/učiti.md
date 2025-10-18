@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Učim srpski [[svak|svaki]] dan.
+Učim srpski [[svaki|svaki]] dan.
 
 Učili smo decu da [[pisati|pišu]] slova.
 

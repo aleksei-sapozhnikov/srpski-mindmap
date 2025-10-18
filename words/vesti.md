@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Gledao je vesti [[svak|svako]] jutro.  
+Gledao je vesti [[svaki|svako]] jutro.  
 
 Imam [[dobar|dobre]] vesti za tebe!
 

@@ -6,7 +6,7 @@
 
 ## Rečenice
 
-[[svak|Svake]] večeri izlazimo u šetnju.
+[[svaki|Svake]] večeri izlazimo u šetnju.
 
 Novine izlaze svakog [[jutro|jutra]].
 

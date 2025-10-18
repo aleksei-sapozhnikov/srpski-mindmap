@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Učimo zajedno [[svak|svakog]] dana.
+Učimo zajedno [[svaki|svakog]] dana.
 
 Juče smo zajedno [[spremati|spremali]] večeru.
 

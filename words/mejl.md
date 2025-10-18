@@ -7,7 +7,7 @@
 
 [[poslati|Poslao]] sam ti mejl [[juče]] uveče.
 
-[[dobiti|Dobijamo]] mnogo mejlova [[svak|svakog]] dana na poslu.
+[[dobiti|Dobijamo]] mnogo mejlova [[svaki|svakog]] dana na poslu.
 
 <br>
 

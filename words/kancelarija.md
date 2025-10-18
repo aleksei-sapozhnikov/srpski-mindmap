@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-[[raditi|Radim]] u kancelariji [[svak|svaki]] dan.
+[[raditi|Radim]] u kancelariji [[svaki|svaki]] dan.
 
 Juče smo [[imati|imali]] sastanak u kancelariji.
 

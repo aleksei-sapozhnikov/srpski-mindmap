@@ -5,7 +5,7 @@
 
 ## Rečenice
 
-Vežbanje [[svak|svakog]] dana poboljšava zdravlje.
+Vežbanje [[svaki|svakog]] dana poboljšava zdravlje.
 
 Imali smo vežbanje iz matematike [[juče]].
 

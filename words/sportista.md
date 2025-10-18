@@ -4,7 +4,7 @@
 
 ## Rečenice
 
-Moj brat je uspešan sportista i trenira [[svak|svaki]] dan.
+Moj brat je uspešan sportista i trenira [[svaki|svaki]] dan.
 
 Sportisti iz raznih [[zemlja|zemalja]] su se [[okupiti se|okupili]] na [[takmičenje|takmičenju]].
 

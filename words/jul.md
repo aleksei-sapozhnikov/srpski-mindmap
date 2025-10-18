@@ -6,7 +6,7 @@
 
 Jul je obično [[topao|najtopliji]] mesec.
 
-[[letovati|Letujemo]] u julu [[svak|svake]] godine.
+[[letovati|Letujemo]] u julu [[svaki|svake]] godine.
 
 <br>
 

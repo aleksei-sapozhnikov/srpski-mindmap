@@ -1,6 +1,8 @@
 # onako - онако
 
 1. так, таким образом  
+2. так себе, более-менее (в разговорной речи)
+
 
 ## Rečenice
 
@@ -8,9 +10,9 @@ Uradio je onako kako si mu [[reći|rekao]].
 
 Onako ti [[stajati|stoji]] mnogo [[dobar|bolje]].
 
-Biće onako kako smo se dogovorili.
+On se onako [[nasmejati se|nasmejao]] i otišao.  
 
-Ponašaj se onako kako dolikuje situaciji.
+Film je bio onako, ništa [[poseban|posebno]].  
 
 <br>
 
